@@ -31,7 +31,7 @@ Welcome to the ultimate curated directory of **API gateway security platforms**,
 - **Market Dynamics:** The API Security market is valued at **~$1.26 Billion in 2026** (with the broader API Management market exceeding **$13.5 Billion**), characterized as **highly fragmented and competitive** across hyperscalers, cloud-edge CDNs, and dedicated cybersecurity pure-plays rather than a winner-take-all monopoly.
 - **Apache APISIX** is the **most feature-complete open-source gateway** with **100+ plugins**, **native MCP support for AI agents**, and **full Apache-2.0 licensing with no feature gating**.
 - **Kong Gateway OSS** is the **plugin breadth leader** with **100+ plugins**, though enterprise features like OIDC require Konnect Enterprise or paid licensing.
-- **Tyk Gateway** is **MPL 2.0 licensed** — **file-level copyleft** that permits proprietary plugins — with **10,800+ GitHub stars** and **5M+ DockerHub pulls**.
+- **Tyk Gateway** is **MPL 2.0 licensed** — **file-level copyleft** that permits proprietary plugins — with **10,800+ GitHub_Stars** and **5M+ DockerHub pulls**.
 - **Cloudflare API Shield** integrates ML-based API discovery, schema validation, and mTLS at edge scale, with API Discovery starting on the **$250/month Business tier (as an add-on)** and full posture management on **Enterprise**.
 - **Apigee X** subscription starts at **$1,500/month** (Standard tier, Pay-as-you-go proxy units) with **$40K–$60K+ professional services** for implementation.
 - **AWS API Gateway HTTP APIs** cost **$1.00 per million requests** vs **REST APIs at $3.50 per million** — offering a **71% cost reduction**.
@@ -71,7 +71,7 @@ Welcome to the ultimate curated directory of **API gateway security platforms**,
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Traefik](https://github.com/traefik/traefik)** [![Stars](https://img.shields.io/github/stars/traefik/traefik?style=social&color=white)](https://github.com/traefik/traefik/stargazers)  
   **The Cloud Native Application Proxy**, MIT licensed.  
@@ -137,7 +137,7 @@ Contributions are welcome! Follow these steps to submit new API gateway security
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact Stars Count badge, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count badge, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
